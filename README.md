@@ -1,25 +1,22 @@
-# 🎈 Blank app template
+# 🤖 AI-Powered CV Generator
 
-A simple Streamlit app template for you to modify!
+An intelligent web application designed to automate and optimize the process of creating professional resumes using AI parsing and layout algorithms.
 
-[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://blank-app-template.streamlit.app/)
+---
 
-### How to run it on your own machine
+## ✨ Key Features
+- **Smart Data Parsing:** Efficiently extracts and organizes user background information.
+- **Automated Formatting:** Generates clean, modern, and application-ready CV layouts.
+- **Content Optimization:** Enhances content structure to align with professional standards.
 
-Prerequisite: install `uv` if you don't already have it.
+---
 
-```
-$ curl -LsSf https://astral.sh/uv/install.sh | sh
-```
+## 🛠️ Tech Stack
+- **Language:** Python
+- **Framework:** Streamlit
+- **Development Environment:** GitHub Codespaces
 
-1. Sync the dependencies
+---
 
-   ```
-   $ uv sync
-   ```
-
-2. Run the app
-
-   ```
-   $ uv run streamlit run streamlit_app.py
-   ```
+## 🚀 Overview & Usage
+This project leverages Streamlit and Python to offer a simple, interactive user interface where users can input their details and automatically receive a tailored, professionally styled resume.
